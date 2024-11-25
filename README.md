@@ -1,5 +1,5 @@
 # WPF_CppSubmissionChecker
-WPF application that speeds up the checking process of a large number of C++ Projects
+WPF application that speeds up the checking process of a large number of C++ Projects.
 This tool allows you to check student submissions one by one, without the need of unpacking everything first.
 
 <h1>Usage instructions</h1>
